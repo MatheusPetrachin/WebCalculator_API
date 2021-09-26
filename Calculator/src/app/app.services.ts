@@ -1,7 +1,6 @@
 import { Injectable } from "@angular/core";
 import { environment } from "src/environments/environment";
 import { HttpClient } from '@angular/common/http';
-import { Marca, modelAnoModelo, Modelo, resultadoFipe } from "./app.model";
 import { Calc } from "./calc";
 
 
